@@ -1,5 +1,5 @@
 { 
-    "username": "Manager",
+    "username": "Manager@apptest-sqlsvr",
     "password": "Sqlserver0629!",
     "database": "apptest-sqldb",
     "host": "apptest-sqlsvr.database.windows.net",
